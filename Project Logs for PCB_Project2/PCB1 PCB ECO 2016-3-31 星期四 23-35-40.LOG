@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=P0_7 Pin=RP2-9
+Removed Pin From Net: NetName=P0_6 Pin=RP2-10
+Removed Pin From Net: NetName=P0_5 Pin=RP2-11
+Removed Pin From Net: NetName=P0_4 Pin=RP2-12
+Removed Pin From Net: NetName=P0_3 Pin=RP2-13
+Removed Pin From Net: NetName=P0_2 Pin=RP2-14
+Removed Pin From Net: NetName=P0_1 Pin=RP2-15
+Removed Pin From Net: NetName=P0_0 Pin=RP2-16
+Removed Member From Class: ClassName=Sheet1 Member=RP2
+Added Pin To Net: NetName=P0_7 Pin=U1-12
+Added Pin To Net: NetName=P0_6 Pin=U1-13
+Added Pin To Net: NetName=P0_5 Pin=U1-14
+Added Pin To Net: NetName=P0_4 Pin=U1-15
+Added Pin To Net: NetName=P0_3 Pin=U1-16
+Added Pin To Net: NetName=P0_2 Pin=U1-17
+Added Pin To Net: NetName=P0_1 Pin=U1-18
+Added Pin To Net: NetName=P0_0 Pin=U1-19

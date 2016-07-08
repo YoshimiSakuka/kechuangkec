@@ -1,6 +1,0 @@
-Added Component: Designator=D3(DIODE0.4A)
-Added Pin To Net: NetName=VCC Pin=D3-A
-Added Pin To Net: NetName=Net89c51_27 Pin=89c51-27
-Added Pin To Net: NetName=Net89c51_27 Pin=D3-K
-Added Net: Name=Net89c51_27
-Added Member To Class: ClassName=Sheet1 Member=Component D3 一个发光二极管
